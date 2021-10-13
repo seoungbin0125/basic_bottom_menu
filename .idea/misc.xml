@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/develop/android_app/CManNote/app/src/main/res/drawable/call_background_stroke.xml" value="0.22083333333333333" />
+        <entry key="..\:/develop/android_app/CManNote/app/src/main/res/layout/activity_bottom_bar.xml" value="0.28940217391304346" />
+        <entry key="..\:/develop/android_app/CManNote/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/develop/android_app/CManNote/app/src/main/res/layout/fragment_show_mode.xml" value="0.33" />
+        <entry key="..\:/develop/android_app/CManNote/app/src/main/res/layout/layout_bottom_menu.xml" value="0.28306159420289856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
